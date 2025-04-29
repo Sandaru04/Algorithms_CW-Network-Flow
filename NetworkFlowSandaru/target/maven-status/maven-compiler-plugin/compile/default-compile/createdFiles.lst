@@ -1,0 +1,5 @@
+com\westminster\networkflowsandaru\EdmondsKarp.class
+com\westminster\networkflowsandaru\InputParser.class
+com\westminster\networkflowsandaru\Main.class
+com\westminster\networkflowsandaru\FlowNetwork.class
+com\westminster\networkflowsandaru\Edge.class
